@@ -29,6 +29,7 @@ namespace cg
 		unsigned accumulation_num;
 
 		std::filesystem::path shader_path;
+		bool show_edges;
 	};
 
 }// namespace cg
